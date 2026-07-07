@@ -84,13 +84,6 @@ I'm a passionate **Junior Full Stack Developer** with experience in developing m
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shanmathi-c&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 # 📌 Featured Projects
 
