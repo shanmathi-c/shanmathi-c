@@ -8,20 +8,16 @@ Junior Full Stack Developer | Building AI-Powered Web Applications
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;React+%7C+Vue+%7C+FastAPI+%7C+NestJS;Building+AI-Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shanmathi-c&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
-</p>
-
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 I'm a passionate **Junior Full Stack Developer** with experience in developing modern web applications, AI-powered platforms, and SaaS solutions. I enjoy solving real-world business problems using scalable technologies while continuously improving my software engineering skills.
 
 - 💼 Junior Full Stack Developer
 - 🤖 Interested in AI, LLMs & AI Agents
 - 🚀 Building scalable web applications
-- 📚 Learning every day
+- 📚 Continuously learning new technologies
 - 🎯 Goal: Become a Senior Software Engineer
 
 ---
@@ -30,10 +26,10 @@ I'm a passionate **Junior Full Stack Developer** with experience in developing m
 
 - 🤖 **OpenWork** – AI-powered workspace platform with multi-LLM integration, prompt management, conversations, and workspace management.
 - 📄 **AI Marketing Resume Reviewer** – AI-powered platform for reviewing marketing resumes and providing intelligent suggestions.
-- ⚛️ **AI Resume Reviewer (React + FastAPI)** – Resume analysis platform with AI-powered feedback.
-- 👥 **HR Management System** – Employee, attendance, workspace, and organization management.
-- 🧠 **AI Incentive Calculator** – Rule-based AI incentive calculation engine.
-- 💬 **Real-Time Chat System** – WebSocket-powered messaging platform.
+- ⚛️ **AI Resume Reviewer (React + FastAPI)** – Resume analysis platform built with React and FastAPI that generates personalized AI feedback and improvement recommendations.
+- 👥 **HR Management System** – Employee, attendance, workspace, and organization management platform.
+- 🧠 **AI Incentive Calculator** – AI-powered incentive calculation engine based on configurable business rules.
+- 💬 **Real-Time Chat System** – WebSocket-based messaging and collaboration platform.
 
 ---
 
@@ -57,25 +53,25 @@ I'm a passionate **Junior Full Stack Developer** with experience in developing m
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
 </p>
 
 ### 🤖 AI & LLM
@@ -91,25 +87,8 @@ I'm a passionate **Junior Full Stack Developer** with experience in developing m
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shanmathi-c&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathi-c&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shanmathi-c&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shanmathi-c&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shanmathi-c&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathi-c&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -128,9 +107,9 @@ AI-powered application that reviews marketing resumes, identifies strengths and 
 
 ---
 
-## ⚛️ AI Resume Reviewer
+## ⚛️ AI Resume Reviewer (React + FastAPI)
 
-Built with **React** and **FastAPI**, this application analyzes resumes using AI, generates personalized feedback, highlights missing skills, and recommends improvements based on target job roles.
+An AI-powered resume analysis platform that generates personalized feedback, identifies missing skills, and recommends improvements based on target job roles.
 
 ---
 
