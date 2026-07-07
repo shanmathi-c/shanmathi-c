@@ -84,11 +84,10 @@ I'm a passionate **Junior Full Stack Developer** with experience in developing m
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shanmathi-c&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanmathi-c&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shanmathi-c&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
