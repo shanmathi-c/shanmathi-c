@@ -1,6 +1,8 @@
-# Hi 👋, I'm Shanmathi
+<h1 align="center">Hi 👋, I'm Shanmathi</h1>
 
-## 💻 Junior Full Stack Developer | Building AI-Powered Web Applications
+<h3 align="center">
+Junior Full Stack Developer | Building AI-Powered Web Applications
+</h3>
 
 I'm a passionate Junior Full Stack Developer with experience in developing modern web applications, AI-powered platforms, and SaaS solutions. I enjoy solving real-world business problems using scalable technologies while continuously improving my software engineering skills.
 
