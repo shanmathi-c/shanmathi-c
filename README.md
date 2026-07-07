@@ -3,6 +3,9 @@
 <h3 align="center">
 Junior Full Stack Developer | Building AI-Powered Web Applications
 </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;React+%7C+Vue+%7C+FastAPI+%7C+NestJS;Building+AI-Powered+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
 
 I'm a passionate Junior Full Stack Developer with experience in developing modern web applications, AI-powered platforms, and SaaS solutions. I enjoy solving real-world business problems using scalable technologies while continuously improving my software engineering skills.
 
