@@ -41,29 +41,27 @@ I'm a passionate Junior Full Stack Developer with experience in developing moder
 
 ### 🎨 Frontend
 
-- React
-- Vue 3
-- Nuxt 3
-- TypeScript
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Pinia
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,ts,js,html,css,tailwind" />
+</p>
 
 ### ⚙️ Backend
 
-- FastAPI
-- Node.js
-- NestJS
-- Express.js
-- REST APIs
-- WebSockets
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,nestjs" />
+</p>
 
 ### 🗄️ Database
 
-- PostgreSQL
-- MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+</p>
 
 ### 🤖 AI & LLM
 
@@ -72,18 +70,6 @@ I'm a passionate Junior Full Stack Developer with experience in developing moder
 - OpenRouter
 - Ollama
 - Prompt Engineering
-
-### 🧰 Tools
-
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-- Figma
-- Linux
-
----
 
 ## 📌 Featured Projects
 
